@@ -1,0 +1,9 @@
+# requirements.txt
+
+streamlit
+langchain
+langchain_community
+sentence-transformers
+faiss-cpu
+huggingface_hub
+python-dotenv

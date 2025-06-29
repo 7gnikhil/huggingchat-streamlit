@@ -1,0 +1,15 @@
+# knowledge.txt - Your New Fitness Content
+
+## Principles of Muscle Growth (Hypertrophy)
+Building muscle, known as hypertrophy, requires three main components: stimulus, nutrition, and recovery. The primary stimulus is progressive overload, which means gradually increasing the stress placed on your muscles over time. This can be done by lifting heavier weights, doing more repetitions, or increasing the frequency of your workouts.
+
+## Nutrition for Fitness
+Proper nutrition is critical for performance and recovery. A balanced diet should include macronutrients: protein, carbohydrates, and fats. Protein is essential for repairing and building muscle tissue; a common recommendation is 1.6-2.2 grams of protein per kilogram of body weight. Carbohydrates are the body's primary energy source, fueling your workouts. Healthy fats are important for hormone production and overall health. Hydration is also key; drink plenty of water throughout the day.
+
+## Types of Cardiovascular Exercise
+Cardiovascular exercise, or cardio, strengthens your heart and lungs. There are two main types:
+1.  **Low-Intensity Steady-State (LISS):** Performed at a steady, manageable pace for a longer duration, like a 30-minute jog. This is great for building endurance and burning fat.
+2.  **High-Intensity Interval Training (HIIT):** Involves short bursts of all-out effort followed by brief recovery periods, such as 30 seconds of sprinting followed by 60 seconds of walking. HIIT is very effective for improving cardiovascular fitness and is time-efficient.
+
+## The Importance of Rest and Recovery
+Muscles do not grow during the workout; they grow during rest. It's crucial to get 7-9 hours of quality sleep per night. Overtraining can lead to injury and burnout. Active recovery, such as light walking or stretching on rest days, can help reduce muscle soreness and improve blood flow.
